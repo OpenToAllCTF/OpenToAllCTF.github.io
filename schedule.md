@@ -18,7 +18,7 @@ We sign up for CTFs posted on [CTFtime](https://ctftime.org/) and also on [EasyC
 | 16-18 Sep 2016 | [CSAW CTF Qualification Round 2016](https://ctftime.org/event/347) | Jeopardy | — |
 | 16-17 Sept 2016 | [STEM CTF: Cyber Challenge 2016](http://ctf.mitrecyberacademy.org/) | Jeopardy | — |
 | 10-12 Sep 2016 | [ASIS CTF Finals 2016](http://asis-ctf.ir/) | Jeopardy | — |
-| 26-28 Aug 2016 | [Tokyo Westerns/MMA CTF 2nd 2016](https://ctftime.org/event/336) | Jeopardy | — |
+| 26-28 Aug 2016 | [Tokyo Westerns/MMA CTF 2nd 2016](https://ctftime.org/event/336) | Jeopardy | 16th |
 | 26-28 Aug 2016 | [CTF(x) 2016](https://ctftime.org/event/348) | Jeopardy | 3rd |
 | 20-21 Aug 2016 | [BioTerra CTF 2016](https://ctftime.org/event/350) | Jeopardy | 71st |
 | 19-20 Aug 2016 | [Hackcon 2016](https://ctftime.org/event/341) | Jeopardy | 7th |
