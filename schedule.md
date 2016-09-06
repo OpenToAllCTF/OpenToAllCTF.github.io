@@ -4,7 +4,7 @@ title: Schedule 2016
 permalink: /schedule/
 ---
 
-We sign up for CTFs posted on [CTFtime](https://ctftime.org/) and also on [EasyCTF](http://calendar.easyctf.com/). If you know of other sources for CTFs, please let us know. This list is not complete. We will sign up for other CTFs as they are announced and become available.
+We sign up for CTFs posted on [CTFtime](https://ctftime.org/). If you know of other sources for CTFs, please let us know. This list is not complete. We will sign up for other CTFs as they are announced and become available.
 
 | Date | Event | Style | Placement |
 | Sometime 2016 | [33C3 CTF](https://aachen.ccc.de/)<a></a> | Jeopardy | — |
