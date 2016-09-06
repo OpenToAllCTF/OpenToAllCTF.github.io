@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
     world. Our focus is having fun and learning as we play in CTFs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://opentoallctf.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: OpenToAllCTF
+github_username: OpenToAllCTF
 
 # Build settings
 markdown: kramdown
