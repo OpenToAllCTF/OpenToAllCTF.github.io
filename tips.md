@@ -10,7 +10,6 @@ permalink: /tips/
 ## IDA
 * Common hotkeys:
 
-  ```
   | Key              | Effect                          |
   |------------------|---------------------------------|
   | `Esc`            | Go back                         |
@@ -18,7 +17,6 @@ permalink: /tips/
   | `H`, `Q`, `B`    | View as decimal, hex, or binary |
   | `N`/`U`          | Name/Undefine symbol            |
   | `D`, `C`, `P`    | Convert to data, code, fuction  |
-  ```
 
 ## Debugging
 
