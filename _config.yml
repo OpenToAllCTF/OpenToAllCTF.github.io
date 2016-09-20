@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
     OpenToAll is a CTF (capture-the-flag) team. We have members from all over the
     world. Our focus is having fun and learning as we play in CTFs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://opentoallctf.github.io" # the base hostname & protocol for your site
+url: "https://opentoallctf.github.io" # the base hostname & protocol for your site
 twitter_username: OpenToAllCTF
 github_username: OpenToAllCTF
 
