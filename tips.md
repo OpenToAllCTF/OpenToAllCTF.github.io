@@ -19,6 +19,7 @@ permalink: /tips/
   | `D`, `C`, `P`    | Convert to data, code, fuction  |
 
 ## Debugging
+
 ### GDB
 
 * Don't suffer through vanilla GDB. Use something like GEF, PEDA, or Voltron.
@@ -38,3 +39,24 @@ permalink: /tips/
   * `set follow-exec-mode <same|new>` - Tell gdb to either trace the original target or 'move' to the new process on `exec*`.
 
 ## Shell-fu
+* `file` - Try to determine what type of file you have.
+* `strace` - See which syscalls an executable executes.
+* `ltrace` - See which library calls an executable executes.
+* `ldd` - See which dynamic libraries an executable loads.
+* `nm` - Dump a binary's symbols
+* Readline shortcuts are _super_ handy.
+
+  | Key      | Effect                             |
+  |----------|------------------------------------|
+  | `Ctrl-E` | Go to end of line                  |
+  | `Ctrl-A` | Go to start of line                |
+  | `Ctrl-U` | Delete everything left of cursor   |
+  | `Ctrl-K` | Delete everything right of cursor  |
+  | `Ctrl-W` | Delete word left                   |
+  | `Ctrl-Y` | Paste last deleted text            |
+  | `Ctrl-F` | Move cursor forward one char       |
+  | `Ctrl-B` | Move cursor back one char          |
+  | `Ctrl-P` | Move back one line in history      |
+  | `Ctrl-N` | Move forward one line in history   |
+  | `Ctrl-R` | Search bash history (start typing) |
+  | `Ctrl-G` | Cancel history search              |
