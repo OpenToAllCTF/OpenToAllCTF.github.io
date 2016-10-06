@@ -17,12 +17,15 @@ permalink: /tips/
   | `H`, `Q`, `B`    | View as decimal, hex, or binary |
   | `N`/`U`          | Name/Undefine symbol            |
   | `D`, `C`, `P`    | Convert to data, code, fuction  |
+* Learn to create and use structs.
+* IDAPython is very powerful and worth learning.
+* Use FLIRT whenever you see a static binary. You can save a ton of normally wasted time reverse engineering common functions.
 
 ## Debugging
 
 ### GDB
 
-* Don't suffer through vanilla GDB. Use something like GEF, PEDA, or Voltron.
+* Don't suffer through vanilla GDB. Use something like [GEF](https://github.com/hugsy/gef), [PEDA](https://github.com/longld/peda), or [Voltron](https://github.com/snare/voltron).
 * Learn these!
   * `command <bp#>` - Run commands when a bp is hit.
   * `ignore <bp#> <count>` - Convert to data, code, fuction.
