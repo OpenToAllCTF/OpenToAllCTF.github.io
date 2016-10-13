@@ -16,7 +16,7 @@ permalink: /tips/
   | `Ctrl-Enter`     | Go forward                      |
   | `H`, `Q`, `B`    | View as decimal, hex, or binary |
   | `N`/`U`          | Name/Undefine symbol            |
-  | `D`, `C`, `P`    | Convert to data, code, fuction  |
+  | `D`, `C`, `P`    | Convert to data, code, function  |
 * Learn to create and use structs.
 * IDAPython is very powerful and worth learning.
 * Use FLIRT whenever you see a static binary. You can save a ton of normally wasted time reverse engineering common functions.
@@ -28,16 +28,15 @@ permalink: /tips/
 * Don't suffer through vanilla GDB. Use something like [GEF](https://github.com/hugsy/gef), [PEDA](https://github.com/longld/peda), or [Voltron](https://github.com/snare/voltron).
 * Learn these!
   * `command <bp#>` - Run commands when a bp is hit.
-  * `ignore <bp#> <count>` - Convert to data, code, fuction.
+  * `ignore <bp#> <count>` - Ignore the next _count_ occurrences of _bp_.
   * `watch|rwatch|awatch <addr> [thread <thread>] [mask <mask>]` - Break when specified address is written to, read from, or either.
   * `hbreak <addr>` - Set a hardware breakpoint.
   * `tbreak <addr>` - Set a temporary breakpoint that disappears once hit.
   * `advance <addr>` - Continue until the specified address.
-  * `catch syscall [syscall]` - Convert to data, code, function.
-  * `catch signal [signal]` - Convert to data, code, function.
+  * `catch syscall [syscall]` - Break on syscall (all or the specified).
+  * `catch signal [signal]` - Break on signal (all or the specified).
   * `bt` - View stack frames (backtrace).
   * `up`/`down` - Move up or down to a different stack frame.
-
   * `set follow-fork-mode <child|parent>` - Tell gdb to either trace the parent or 'move' to the child on `fork`.
   * `set follow-exec-mode <same|new>` - Tell gdb to either trace the original target or 'move' to the new process on `exec*`.
 
@@ -47,6 +46,8 @@ permalink: /tips/
 * `ltrace` - See which library calls an executable executes.
 * `ldd` - See which dynamic libraries an executable loads.
 * `nm` - Dump a binary's symbols
+* Learn to use pipes and [redirection](http://wiki.bash-hackers.org/howto/redirection_tutorial)! When you want to script input, this is very handy, and doing it incorrectly can lead to successful payloads being unusable (e.g. spawning a shell whose _stdin_ is not connected to your terminal).
+  * To pipe output to an application, but regain access to _stdin_ after, use a subshell: `(python3 -c "print('AAAApayload')"; cat -) | nc pwn.me.org 5555`
 * Readline shortcuts are _super_ handy.
 
   | Key      | Effect                             |
