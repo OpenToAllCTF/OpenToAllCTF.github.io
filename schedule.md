@@ -10,14 +10,23 @@ We sign up for CTFs posted on [CTFtime](https://ctftime.org/). If you know of ot
 | Sometime 2016 | [33C3 CTF](https://aachen.ccc.de/)<a></a> | Jeopardy | — |
 | Sometime 2016 | [UCSB iCTF](https://ctftime.org/ctf/5/)<a></a> | Attack-Defend | — |
 | Sometime 2016 | [9447 Security Society CTF 2016](https://9447.plumbing/home) | Jeopardy | — |
-| Sometime 2016 | [Defcamp CTF Qualification 2016](http://dctf.def.camp/) | Jeopardy | — |
-| 04-06 Nov 2016 | [Hack The Vote 2016](https://ctftime.org/event/345) | Jeopardy | — |
+| 16-17 Dec 2016 | [WhiteHat Grand Prix 2016](http://whitehatvn.com/forum/whitehat-grand-prix-2016/95632-announcement) | Jeopardy | — |
+| 16-18 Dec 2016 | [SharifCTF 7](http://ctf.sharif.edu/) | Jeopardy | — |
+| 10-11 Dec 2016 | [SECCON Online CTF 2016]( http://2016.seccon.jp/news/#124) | Jeopardy | — |
+| 09-11 Dec 2016 | [M*CTF Online 2016](http://mctf.ru/) | Jeopardy | — |
+| 25-27 Nov 2016 | [Juniors CTF 2016](https://juniors.ctf.org.ru/) | Jeopardy | — |
+| 18-21 Nov 2016 | [RC3 CTF 2016](https://ctf.rc3.club) | Jeopardy | — |
+| 18-19 Nov 2016 | [GreHackCTF 2016](http://www.grehack.fr/) | Jeopardy | — |
+| 12 Nov 2016 | [RuCTFE CTF 2016](https://ructfe.org) | Attack-Defend | 72nd |
+| 10-11 Nov 2016 | [Defcamp CTF Finals 2016](http://dctf.def.camp/) | Jeopardy | 10th |
+| 04-06 Nov 2016 | [Hack The Vote 2016](https://ctftime.org/event/345) | Jeopardy | 42nd |
 | 26-28 Oct 2016 | [EKOPARTY CTF 2016](https://ctftime.org/event/342) | Jeopardy | 27th |
 | 19-20 Oct 2016 | [Hack.lu CTF 2016](https://ctftime.org/event/380) | Jeopardy | 35th |
 | 15-16 Oct 2016 | [ToorCon CTF 2016](https://scoreboard.ctf.land/) | Jeopardy | 3rd |
 | 07-09 Oct 2016 | [Hackover CTF 2016](https://ctftime.org/event/339) | Jeopardy | 35th |
-| 30 Sep – 2 Oct 2016 | [TUM CTF 2016](http://ctf.hxp.io/) | Jeopardy | — |
+| 30 Sep – 2 Oct 2016 | [TUM CTF 2016](http://ctf.hxp.io/) | Jeopardy | 50th |
 | 16-18 Sep 2016 | [CSAW CTF Qualification Round 2016](https://ctftime.org/event/347) | Jeopardy | 29th |
+| 24-25 Sep 2016 | [Defcamp CTF Qualification 2016](http://dctf.def.camp/) | Jeopardy | 9th |
 | 16-17 Sep 2016 | [STEM CTF: Cyber Challenge 2016](http://ctf.mitrecyberacademy.org/) | Jeopardy | 4th (Professional) |
 | 10-12 Sep 2016 | [ASIS CTF Finals 2016](http://asis-ctf.ir/) | Jeopardy | 15th |
 | 26-28 Aug 2016 | [Tokyo Westerns/MMA CTF 2nd 2016](https://ctftime.org/event/336) | Jeopardy | 16th |
