@@ -15,7 +15,7 @@ We sign up for CTFs posted on [CTFtime](https://ctftime.org/). If you know of ot
 | 10-11 Dec 2016 | [SECCON Online CTF 2016]( http://2016.seccon.jp/news/#124) | Jeopardy | — |
 | 09-11 Dec 2016 | [M*CTF Online 2016](http://mctf.ru/) | Jeopardy | — |
 | 25-27 Nov 2016 | [Juniors CTF 2016](https://juniors.ctf.org.ru/) | Jeopardy | — |
-| 18-21 Nov 2016 | [RC3 CTF 2016](https://ctf.rc3.club) | Jeopardy | — |
+| 18-21 Nov 2016 | [RC3 CTF 2016](https://ctf.rc3.club) | Jeopardy | —1 |
 | 18-19 Nov 2016 | [GreHackCTF 2016](http://www.grehack.fr/) | Jeopardy | — |
 | 17-18 Nov 2016 | [Qiwi-InfoSec CTF 2016](http://www.qiwictf.ru/) | Jeopardy | — |
 | 12 Nov 2016 | [RuCTFE CTF 2016](https://ructfe.org) | Attack-Defend | 72nd |
