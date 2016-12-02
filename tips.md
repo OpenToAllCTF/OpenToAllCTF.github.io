@@ -7,6 +7,14 @@ permalink: /tips/
 * TOC
 {:toc}
 
+## Assembly
+
+* Beginner's guide: http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
+* Big PDF: http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/aoaTOC2.pdf
+* Quickly see what assembly different compilers generate: https://godbolt.org/
+* Quickly disassemble raw bytes: https://www.onlinedisassembler.com/odaweb/
+* Quickly assemble x86: https://defuse.ca/online-x86-assembler.htm
+
 ## IDA
 * Common hotkeys:
 
