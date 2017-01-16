@@ -8,7 +8,7 @@ We sign up for CTFs posted on [CTFtime](https://ctftime.org/). If you know of ot
 
 | Date | Event | Style | Placement |
 | 27-29 Dec 2016 | [33C3 CTF](https://aachen.ccc.de/)<a></a> | Jeopardy | 28th |
-| 17-24 Dec 2016 | [3DSCTF] (https://3dsctf.org/)<a></a> | Jeopardy | 97th |
+| 17-24 Dec 2016 | [3DSCTF](https://3dsctf.org/)<a></a> | Jeopardy | 97th |
 | 16-17 Dec 2016 | [WhiteHat Grand Prix 2016](http://whitehatvn.com/forum/whitehat-grand-prix-2016/95632-announcement) | Jeopardy | 16th |
 | 16-18 Dec 2016 | [SharifCTF 7](http://ctf.sharif.edu/) | Jeopardy | 76th |
 | 10-11 Dec 2016 | [SECCON Online CTF 2016]( http://2016.seccon.jp/news/#124) | Jeopardy | 21st |
