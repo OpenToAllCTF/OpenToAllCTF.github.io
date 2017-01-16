@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Guidelines
-permalink: /guidelines/
+title: Rules
+permalink: /rules/
 ---
 
-These are the guidelines for participating with the OpenToAll CTF team.
+These are the rules for participating with the OpenToAll CTF team.
 
-NOTE: These guidelines may change, and enforcement is at the discretion of the team leadership.
+NOTE: These rules may change, and enforcement is at the discretion of the team leadership.
 
 # We are a learning-oriented team that is open to everyone.
 
