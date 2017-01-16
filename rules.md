@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rules
+title: Team rules
 permalink: /rules/
 ---
 
