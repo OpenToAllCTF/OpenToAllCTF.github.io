@@ -7,11 +7,11 @@ permalink: /schedule/
 We sign up for CTFs posted on [CTFtime](https://ctftime.org/). If you know of other sources for CTFs, please let us know. This list is not complete. We will sign up for other CTFs as they are announced and become available.
 
 | Date | Event | Style | Placement |
-| 27-29 Dec 2016 | [33C3 CTF](https://aachen.ccc.de/)<a></a> | Jeopardy | — |
-| 16-17 Dec 2016 | [WhiteHat Grand Prix 2016](http://whitehatvn.com/forum/whitehat-grand-prix-2016/95632-announcement) | Jeopardy | — |
-| 16-18 Dec 2016 | [SharifCTF 7](http://ctf.sharif.edu/) | Jeopardy | — |
-| 10-11 Dec 2016 | [SECCON Online CTF 2016]( http://2016.seccon.jp/news/#124) | Jeopardy | — |
-| 09-11 Dec 2016 | [M*CTF Online 2016](http://mctf.ru/) | Jeopardy | — |
+| 27-29 Dec 2016 | [33C3 CTF](https://aachen.ccc.de/)<a></a> | Jeopardy | 28th |
+| 17-24 Dec 2016 | [The 318br, DESEC, and SucuriHC Capture The Flag (3DSCTF) (https://3dsctf.org/)<a></a> | Jeopardy | 97th |
+| 16-17 Dec 2016 | [WhiteHat Grand Prix 2016](http://whitehatvn.com/forum/whitehat-grand-prix-2016/95632-announcement) | Jeopardy | 16th |
+| 16-18 Dec 2016 | [SharifCTF 7](http://ctf.sharif.edu/) | Jeopardy | 76th |
+| 10-11 Dec 2016 | [SECCON Online CTF 2016]( http://2016.seccon.jp/news/#124) | Jeopardy | 21st |
 | 25-27 Nov 2016 | [Juniors CTF 2016](https://juniors.ctf.org.ru/) | Jeopardy | 16th |
 | 18-21 Nov 2016 | [RC3 CTF 2016](https://ctf.rc3.club) | Jeopardy | 2nd |
 | 17-18 Nov 2016 | [Qiwi-InfoSec CTF 2016](http://www.qiwictf.ru/) | Jeopardy | 3rd |
