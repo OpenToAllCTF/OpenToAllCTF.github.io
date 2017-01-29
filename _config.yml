@@ -1,4 +1,14 @@
+title: OpenToAll
+description: > # this means to ignore newlines until "baseurl:"
+    OpenToAll is a CTF (capture-the-flag) team. We have members from all over the
+    world. Our focus is having fun and learning as we play in CTFs.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://opentoallctf.github.io" # the base hostname & protocol for your site
+twitter_username: OpenToAllCTF
+github_username: OpenToAllCTF
 
+# Build settings
+markdown: kramdown
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -29,10 +39,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "OTA HTML HEAD"
+keywords: "security, ctf, reverse engineering"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +63,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "line 1"
+  - text: "line 2"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -126,19 +134,6 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
-
 ##################
 # Social Buttons #
 ##################
@@ -160,16 +155,6 @@ social:
 ############
 
 err-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
-
-################################################################################
 
 # NB! Tread carefully if you want to change the variables below this point!
 
