@@ -22,8 +22,6 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
-
 # Google tracking id
 
 google-tracking-id: ""
@@ -162,8 +160,10 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+  Schedule: 'schedule'
+  #Rules: 'rules'
+  Tips: 'tips'
+  #Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
