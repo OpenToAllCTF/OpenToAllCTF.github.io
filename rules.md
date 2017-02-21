@@ -4,7 +4,7 @@ title: Team rules
 permalink: /rules/
 ---
 
-These are the rules for participating with the OpenToAll CTF team. To join the team, go here:  (http://bit.ly/JoinOpenToAll)
+These are the rules for participating with the OpenToAll CTF team. To join the team, go here: [join OpenToAll](http://bit.ly/JoinOpenToAll)<a></a>
 
 NOTE: These rules may change, and enforcement is at the discretion of the team leadership.
 
