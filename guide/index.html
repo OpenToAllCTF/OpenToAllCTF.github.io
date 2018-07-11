@@ -1,0 +1,232 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>OpenToAll</title>
+
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/black.css">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- Custom stuff -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+
+        <!-- Slide 1 -->
+        <section>
+          Welcome to <span class="ota-red">OpenToAll</span>!
+        </section>
+
+        <!-- Slide 2 -->
+        <section>
+          This guide is a <span class="ota-red">starter pack</span> for new members.
+          <br/>
+          It includes instructions on :
+          <br/>
+          <br/>
+          <ul>
+            <li>the rules of the team</li>
+            <li>an introduction to <span class="ota-red">OTA Bot</span></li>
+            <li>an introduction to <span class="ota-red">OTA University</span></li>
+            <li>some general resources to get started</li>
+          </ul>
+        </section>
+
+        <!-- Slide 3 -->
+        <section>
+          <span class="ota-red">OpenToAll</span> is a community of 300+ members.
+          We only have 1 rule which every member must follow :
+          <br/>
+          <br/>
+          <b>Be respectful to your teammates</b>.
+        </section>
+
+        <!-- Slide 4 -->
+        <section>
+          Our team uses a collaboration tool called <code>Slack</code>, a chat
+          system similar to IRC, Discord, Mattermost, Skype and more...
+        </section>
+
+        <!-- Slide 5 -->
+        <section>
+          <code>Slack</code> is where all the communication happens. Depending
+          on your interests, we have a <code>Slack</code> channel (room) for each
+          subject :
+          <br/>
+          <br/>
+          <ul>
+            <li>Web : <code>#web</code></li>
+            <li>Reverse Engineering : <code>#re</code></li>
+            <li>Binary Exploitation : <code>#pwn</code></li>
+            <li>OTA University : <code>#ota-university</code></li>
+          </ul>
+        </section>
+
+        <!-- Slide 6 -->
+        <section>
+          At <span class="ota-red">OpenToAll</span>, we try to do as many CTFs
+          as possible on <a href="https://ctftime.org" target="_blank">CTFTime</a>.
+          <br/>
+          <br/>
+          <a href="https://ctftime.org" target="_blank">CTFTime</a> is essentially
+          a large list of scheduled CTF events throughout the year.
+          <br/>
+          <br/>
+          <b>If you want to know when the next CTF is, visit that website!</b>
+        </section>
+
+        <!-- Slide 7 -->
+        <section>
+          When comes the time to participate in a CTF, we use a <code>Slack</code>
+          bot called <code>@bishop</code>.
+          <br/>
+          <br/>
+          This bot coordinates the whole team. It manages the list of CTFs we play
+          in, the list of challenges we're working on as well as the list of active
+          members working on a specific challenge...
+        </section>
+
+        <!-- Slide 8 -->
+        <section>
+          <code>@bishop</code> commands are simple to use. Below are
+          example commands we use to create and participate in solving the
+          <code>Floppy</code> challenge from <code>Google CTF 2018</code>
+          <br/>
+          <br/>
+          <ul>
+            <li><span class="ota-green">!addctf google-18</span> to
+              create a new <code>#google-18</code> channel.</li>
+            <li><span class="ota-green">!addchallenge floppy</span> to keep track
+              of a the <code>Floppy</code> challenge.</li>
+            <li><span class="ota-green">!workon floppy</span> to notify members
+              that you are working on the <code>Floppy</code> challenge...</li>
+          </ul>
+        </section>
+
+        <!-- Slide 9 -->
+        <section>
+         <code>@bishop</code> will seem intimidating at first.
+         <br/>
+         <br/>
+         You can use <span class="ota-green">!help</span> to get a list of commands
+         to help you out.
+         <br/>
+         <br/>
+         Otherwise, just watch how the other members do it, and you'll get used to
+         it!
+        </section>
+
+        <!-- Slide 10 -->
+        <section>
+          Lastly, <span class="ota-red">OpenToAll</span> tries to encourage
+          learning as much as possible.
+          <br/>
+          <br/>
+          For this reason, we've created
+          <a href="https://university.opentoallctf.com/" target="_blank">
+            OTA University</a>, a wargame made exclusively for
+          <span class="ota-red">OpenToAll</span> members...
+        </section>
+
+        <!-- Slide 11 -->
+        <section>
+          Once you get invited to <span class="ota-red">OpenToAll</span>'s
+          <code>Slack</code>. Join the channel <code>#ota-university</code>
+          for more information.
+        </section>
+
+        <!-- Slide 12 -->
+        <section>
+          Other than
+          <a href="https://university.opentoallctf.com/" target="_blank">
+            OTA University</a>, many members play on online wargames to
+          improve their skills.
+          <br/>
+          <br/>
+          Here are a few that we use...
+        </section>
+
+        <!-- Slide 13 -->
+        <section>
+          <ul>
+            <li>
+              General :
+              <a href="https://root-me.org" target="_blank">Root-me (Beginner)</a>
+            </li>
+            <li>
+              General :
+              <a href="https://ringzer0team.com" target="_blank">Ringzer0team (Intermediate)</a>
+            </li>
+            <li>
+              Cryptography :
+              <a href="https://cryptopals.com" target="_blank">Cryptopals</a>
+            </li>
+            <li>
+              Binary Exploitation :
+              <a href="https://pwnable.kr" target="_blank">pwnable.kr (Beginner)</a>
+            </li>
+            <li>
+              Binary Exploitation :
+              <a href="https://pwnable.tw" target="_blank">pwnable.tw (Advanced)</a>
+            </li>
+            <li>
+              Web :
+              <a href="https://websec.fr" target="_blank">Websec (Intermediate)</a>
+            </li>
+            <li>
+              Web :
+              <a href="https://stypr.com" target="_blank">Stypr (Advanced)</a>
+            </li>
+          </ul>
+        </section>
+
+        <!-- Slide 14 -->
+        <section>
+          We that said, you should have everything you need to get started
+          on <span class="ota-red">OpenToAll</span>!
+          <br/>
+          <br/>
+          Now visit this <a href="http://bit.ly/JoinOpenToAll" target="_blank">
+            registration form</a> to join our <code>Slack</code>!
+          <br/>
+          <br/>
+          You'll need this flag to get in : <span class="ota-green">
+            OTA{y0u_r34d_th3_rul3z}</span>
+        </section>
+      </div>
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+
+    <script>
+      // More info about config & dependencies:
+      // - https://github.com/hakimel/reveal.js#configuration
+      // - https://github.com/hakimel/reveal.js#dependencies
+      Reveal.initialize({
+        dependencies: [
+          { src: 'plugin/markdown/marked.js' },
+          { src: 'plugin/markdown/markdown.js' },
+          { src: 'plugin/notes/notes.js', async: true },
+          { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+        ]
+      });
+    </script>
+  </body>
+</html>

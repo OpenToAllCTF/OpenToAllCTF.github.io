@@ -1,27 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: OpenToAll
-description: > # this means to ignore newlines until "baseurl:"
-    OpenToAll is a CTF (capture-the-flag) team. We have members from all over the
-    world. Our focus is having fun and learning as we play in CTFs.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://opentoallctf.github.io" # the base hostname & protocol for your site
-twitter_username: OpenToAllCTF
-github_username: OpenToAllCTF
+title: Welcome to OpenToAll
+tagline: Homepage of OpenToAll, a friendly CTF team for both beginners and veterans.
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Social
+socialimg: /img/social.jpg # be sure to change this image
+facebook: fbusername
+twitter: twusername
+github: ghusername
+googleplus: gusername
+instagram: igusername
+
+
+sass:
+  style: compressed
+
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
